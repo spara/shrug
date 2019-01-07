@@ -1,7 +1,9 @@
 # Shrug
 
 ## Plaintext
+```
 ¯\_(ツ)_/¯
+```
 
 ## Markdown
 
