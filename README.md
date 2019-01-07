@@ -11,6 +11,6 @@
 ## Docker
 
 ```
-docker build -t shrug
+docker build -t shrug .
 docker run shrug
 ```
